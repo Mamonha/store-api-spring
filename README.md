@@ -89,7 +89,7 @@ This project provides a basic API for a store management system, developed in a 
 - **Description:** Lists the 10 most expensive products.
 
 #### Customers Aged 18-35
-- **Endpoint:** `GET /api/customers/age`
+- **Endpoint:** `GET /api/customers/age-range`
 - **Description:** Lists customers aged between 18 and 35 years.
 
 #### Top 10 Sales by Total Amount
